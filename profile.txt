@@ -1,0 +1,48 @@
+//Info//
+P1First;;P1Last;;23
+//status//
+P1 Status
+//friends//
+P1 Friend1
+P1 Friend2
+--//
+//posts//
+P1 Post 1
+P1 Post 2
+P1 Post 3
+--//
+showAge
+showFriends
+showPosts
+//Info//
+P2First;;P2Last;;44
+//status//
+P2 Status
+//friends//
+P2 Friend1
+P2 Friend2
+--//
+//posts//
+P2 Post 1
+P2 Post 2
+P2 Post 3
+--//
+showAge
+showFriends
+showPosts
+//Info//
+P3First;;P3Last;;82
+//status//
+P3 Status
+//friends//
+P3 Friend 1
+P3 Friend2
+--//
+//posts//
+P3 Post 1
+P3 Post 2
+P3 Post 3
+--//
+showAge
+showFriends
+showPosts
